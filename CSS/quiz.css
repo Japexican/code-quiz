@@ -1,0 +1,51 @@
+:root {
+    /* defines the colors of the variables */
+    --backgroundColor-default: #1a1949;
+    --backgroundColor-incorrect: #880010;
+    --backgroundColor-correct: #006622;
+}
+nav {
+    background-color: #328cd6;
+}
+body {
+    /* sets the background color variable */
+    --backgroundColor: var(--backgroundColor-default);
+    /* uses variable to set the background */
+    background-color: var(--backgroundColor-default);
+}
+/* class to assign button if answered correctly */
+body.correct {
+    background-color: var(--backgroundColor-correct);
+}
+/* class to assign button if answered incorrectly */
+body.incorrect {
+    background-color: var(--backgroundColor-incorrect);
+}
+
+.jumbotron {
+    background-color: #e5e5f0;
+}
+.btn:hover {
+    border-color: black;
+}
+/* class to assign button if answered incorrectly */
+.btn.incorrect {
+    background-color: var(--backgroundColor-incorrect);
+}
+/* class to assign button if answered correctly */
+.btn.correct {
+    background-color: var(--backgroundColor-correct);
+}
+
+.hide {
+    display: none;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #328cd6;
+    border-top: solid black;
+    color: black;
+}
