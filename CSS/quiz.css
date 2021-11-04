@@ -1,8 +1,8 @@
 :root {
     /* defines the colors of the variables */
     --backgroundColor-default: #1a1949;
-    --backgroundColor-incorrect: #880010;
-    --backgroundColor-correct: #006622;
+    --backgroundColor-incorrect: #81000f;
+    --backgroundColor-correct: #00812b;
 }
 nav {
     background-color: #328cd6;
@@ -12,14 +12,6 @@ body {
     --backgroundColor: var(--backgroundColor-default);
     /* uses variable to set the background */
     background-color: var(--backgroundColor-default);
-}
-/* class to assign button if answered correctly */
-body.correct {
-    background-color: var(--backgroundColor-correct);
-}
-/* class to assign button if answered incorrectly */
-body.incorrect {
-    background-color: var(--backgroundColor-incorrect);
 }
 
 .jumbotron {
