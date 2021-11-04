@@ -14,7 +14,7 @@ Good Luck and try and get on the leaderboard!
 
 <!-- screenshot of website here -->
 
-link to github pages: 
+link to github pages: https://japexican.github.io/code-quiz/
 
 Main Page
 <img src="./images/Main.png">
