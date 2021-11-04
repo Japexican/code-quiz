@@ -14,16 +14,16 @@ Good Luck and try and get on the leaderboard!
 
 <!-- screenshot of website here -->
 
-link to github pages: https://andrewmorrow.github.io/Code-Quiz/
+link to github pages: 
 
 Main Page
-<img src="">
+<img src="./images/main.png">
 
 Quiz Page
-<img src="">
+<img src="./images/quiz.png">
 
 Save Score Page
-<img src="">
+<img src="./images/your-score.png">
 
 Highscores Page
-<img src="">
+<img src="./images/highscore.png">
