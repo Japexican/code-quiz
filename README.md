@@ -17,10 +17,10 @@ Good Luck and try and get on the leaderboard!
 link to github pages: 
 
 Main Page
-<img src="./images/main.png">
+<img src="./images/Main.png">
 
 Quiz Page
-<img src="./images/quiz.png">
+<img src="./images/Quiz.png">
 
 Save Score Page
 <img src="./images/your-score.png">
