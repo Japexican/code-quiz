@@ -50,8 +50,8 @@ const quizQuestions = [
             "Which of these is used to make sure your JavaScript code is following proper syntax?",
         answers: [
             { text: "Express", correctAnswer: false },
-            { text: "EsLint", correctAnswer: true },
             { text: "TypeScript", correctAnswer: false },
+            { text: "EsLint", correctAnswer: true },
             { text: "Handlebars.js", correctAnswer: false },
         ],
     },
