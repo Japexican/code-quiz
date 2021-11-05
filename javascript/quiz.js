@@ -14,7 +14,7 @@ const quizQuestions = [
     {
         question: "Inside which element do we put the JavaScript?",
         answers: [
-            { text: "<script>", correctAnswer: true},
+            { text: "<script>", correctAnswer: true },
             { text: "<js>", correctAnswer: false },
             { text: "<scripting>", correctAnswer: false },
             { text: "<javascript>", correctAnswer: false },
@@ -23,7 +23,7 @@ const quizQuestions = [
     {
         question: "Which operator is used to assign a value to a variable?",
         answers: [
-            { text: "+", correctAnswer: false},
+            { text: "+", correctAnswer: false },
             { text: "x", correctAnswer: false },
             { text: "-", correctAnswer: false },
             { text: "=", correctAnswer: true },
@@ -39,8 +39,7 @@ const quizQuestions = [
         ],
     },
     {
-        question:
-            "JavaScript is case sensitive.",
+        question: "JavaScript is case sensitive.",
         answers: [
             { text: "true", correctAnswer: true },
             { text: "false", correctAnswer: false },
