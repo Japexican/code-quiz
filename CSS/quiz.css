@@ -8,14 +8,12 @@ nav {
     background-color: #328cd6;
 }
 body {
-    /* sets the background color variable */
-    --backgroundColor: var(--backgroundColor-default);
-    /* uses variable to set the background */
-    background-color: var(--backgroundColor-default);
+    background-color: #1a1949;
 }
 
 .jumbotron {
     background-color: #e5e5f0;
+    border-radius: 25px;
 }
 .btn:hover {
     border-color: black;

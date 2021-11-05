@@ -17,10 +17,10 @@ Good Luck and try and get on the leaderboard!
 link to github pages: https://japexican.github.io/code-quiz/
 
 Main Page
-<img src="./images/Main.png">
+<img src="./images/main.png">
 
 Quiz Page
-<img src="./images/Quiz.png">
+<img src="./images/quiz.png">
 
 Save Score Page
 <img src="./images/your-score.png">
